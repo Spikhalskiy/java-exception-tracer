@@ -20,9 +20,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/Spikhalskiy/java-exception-tracer</connection>
-        <developerConnection>scm:git:https://github.com/Spikhalskiy/java-exception-tracer</developerConnection>
-        <url>https://github.com/Spikhalskiy/java-exception-tracer</url>
+        <connection>scm:git:git@github.com:Spikhalskiy/java-exception-tracer.git</connection>
+        <developerConnection>scm:git:git@github.com:Spikhalskiy/java-exception-tracer.git</developerConnection>
+        <url>scm:git:git@github.com:Spikhalskiy/java-exception-tracer.git</url>
         <tag>HEAD</tag>
     </scm>
 
